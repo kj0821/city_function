@@ -1,0 +1,423 @@
+Dong,화재_원인별화재발생_Autonomous Gu_Autonomous Gu,화재_원인별화재발생_Total_Total,화재_원인별화재발생_Accident_Electrical distribution,화재_원인별화재발생_Accident_Machinery,화재_원인별화재발생_Accident_Chemicals,화재_원인별화재발생_Accident_Gas,화재_원인별화재발생_Accident_Traffic accident,화재_원인별화재발생_Accident_Careless,화재_원인별화재발생_Accident_Other,화재_원인별화재발생_By natural_By natural,화재_원인별화재발생_Arson_Arson,화재_원인별화재발생_Arson_Incendiary suspicious,화재_원인별화재발생_Unknown_Unknown
+Sajik-dong,Jongno-gu,16.0,5,-,-,-,-,9,-,-,-,-,2
+Samcheong-dong,Jongno-gu,7.0,1,-,-,-,-,6,-,-,-,-,-
+Buam-dong,Jongno-gu,6.0,2,-,-,-,1,3,-,-,-,-,-
+Pyeongchang-dong,Jongno-gu,12.0,6,1,-,-,-,4,-,-,-,-,1
+Muak-dong,Jongno-gu,4.0,-,-,-,-,-,3,1,-,-,-,-
+Gyonam-dong,Jongno-gu,10.0,1,-,-,-,-,7,-,-,-,2,-
+Gahoe-dong,Jongno-gu,5.0,2,1,-,-,-,2,-,-,-,-,-
+Jongno 1·2·3·4(ilisamsa)-ga-dong,Jongno-gu,78.0,31,5,-,-,-,31,1,-,5,1,4
+Jongno 5·6(oryuk)-ga-dong,Jongno-gu,19.0,8,1,-,-,-,10,-,-,-,-,-
+Ihwa-dong,Jongno-gu,18.0,4,-,-,-,-,11,-,-,1,1,1
+Changsin 1(il)-dong,Jongno-gu,12.0,-,2,-,-,-,6,-,-,-,1,3
+Changsin 2(i)-dong,Jongno-gu,11.0,2,1,-,-,-,5,-,-,-,-,3
+Changsin 3(sam)-dong,Jongno-gu,2.0,-,-,-,-,-,2,-,-,-,-,-
+Sungin 1(il)-dong,Jongno-gu,7.0,1,-,-,-,-,2,-,-,-,-,4
+Sungin 2(i)-dong,Jongno-gu,15.0,2,1,-,-,-,11,-,-,-,-,1
+Cheongunhyoja-dong,Jongno-gu,11.0,3,-,-,-,-,5,-,-,3,-,-
+Hyehwa-dong,Jongno-gu,21.0,1,-,-,-,-,15,-,-,1,1,3
+Sogong-dong,Jung-gu,10.0,5,-,-,-,-,3,-,-,1,-,1
+Hoehyeon-dong,Jung-gu,14.0,6,-,-,-,-,4,1,-,1,-,2
+Myeong-dong,Jung-gu,24.0,9,-,-,-,-,4,3,-,3,-,5
+Pil-dong,Jung-gu,18.0,8,-,-,-,-,7,-,-,-,-,3
+Jangchung-dong,Jung-gu,4.0,1,1,-,-,-,-,1,-,1,-,-
+Gwanghui-dong ,Jung-gu,18.0,8,-,-,-,-,6,2,-,-,-,2
+Euljiro-dong,Jung-gu,26.0,6,1,-,-,-,9,3,-,-,1,6
+Sindang 5(o)-dong,Jung-gu,10.0,4,-,-,-,-,5,-,-,-,-,1
+Hwanghak-dong,Jung-gu,12.0,4,-,-,-,-,5,1,-,-,1,1
+Jungnim-dong,Jung-gu,5.0,1,-,-,-,-,3,-,-,1,-,-
+Sindang-dong,Jung-gu,16.0,6,-,-,-,-,9,-,-,-,-,1
+Dasan-dong,Jung-gu,8.0,2,-,-,-,-,4,1,-,-,-,1
+Yaksu-dong,Jung-gu,11.0,2,1,-,-,-,6,-,-,-,-,2
+Cheonggu-dong,Jung-gu,6.0,-,-,-,-,-,2,-,-,1,-,3
+Donghwa-dong,Jung-gu,8.0,4,-,-,-,-,4,-,-,-,-,-
+Huam-dong,Yongsan-gu,8.0,1,-,-,-,-,4,-,1,1,-,1
+Yongsan 2-ga-dong,Yongsan-gu,10.0,4,1,-,-,-,5,-,-,-,-,-
+Namyeong-dong,Yongsan-gu,12.0,1,-,-,-,-,8,-,-,2,-,1
+Wonhyoro 2(i)-dong,Yongsan-gu,2.0,-,-,-,-,-,2,-,-,-,-,-
+Hyochang-dong,Yongsan-gu,6.0,1,-,-,-,-,4,-,-,-,-,1
+Yongmun-dong,Yongsan-gu,5.0,1,1,-,-,-,2,-,-,-,-,1
+Ichon 1(il)-dong,Yongsan-gu,5.0,1,-,-,-,1,3,-,-,-,-,-
+Ichon 2(i)-dong,Yongsan-gu,11.0,4,2,-,-,-,5,-,-,-,-,-
+Itaewon 1(il)-dong,Yongsan-gu,13.0,2,2,-,-,-,4,1,-,-,1,3
+Itaewon 2(i)-dong,Yongsan-gu,3.0,1,-,-,-,-,2,-,-,-,-,-
+Seobinggo-dong,Yongsan-gu,12.0,2,2,-,-,-,5,-,-,-,2,1
+Bogwang-dong,Yongsan-gu,15.0,4,-,-,-,-,7,-,-,1,1,2
+Cheongpa-dong,Yongsan-gu,13.0,2,-,-,-,-,8,-,-,-,1,2
+Wonhyoro 1(il)-dong,Yongsan-gu,10.0,3,-,-,-,-,7,-,-,-,-,-
+Hangangno-dong,Yongsan-gu,15.0,3,1,-,-,-,7,-,-,1,1,2
+Hannam-dong,Yongsan-gu,30.0,9,1,-,-,1,11,-,-,-,1,7
+Wangsimni 2(i)-dong,Seongdong-gu,7.0,1,-,-,-,-,5,-,-,-,1,-
+Majang-dong,Seongdong-gu,24.0,14,3,1,-,-,6,-,-,-,-,-
+Sageun-dong,Seongdong-gu,9.0,1,2,-,-,-,5,-,-,-,1,-
+Haengdang 1(il)-dong,Seongdong-gu,14.0,3,1,-,-,-,7,-,-,-,-,3
+Haengdang 2(i)-dong,Seongdong-gu,5.0,3,-,-,-,-,2,-,-,-,-,-
+Eungbong-dong,Seongdong-gu,2.0,1,-,-,-,-,1,-,-,-,-,-
+Geumho 1(il)-ga-dong,Seongdong-gu,5.0,3,-,-,-,-,1,-,-,-,1,-
+Geumho 4(sa)-ga-dong,Seongdong-gu,2.0,-,-,-,-,1,-,-,-,-,-,1
+Seongsu 1(il)-ga1(il)-dong,Seongdong-gu,9.0,4,1,-,1,-,3,-,-,-,-,-
+Seongsu 1(il)-ga2(i)-dong,Seongdong-gu,13.0,5,-,-,-,-,5,-,-,-,1,2
+Seongsu 2(i)-ga1(il)-dong,Seongdong-gu,11.0,2,1,-,-,-,8,-,-,-,-,-
+Seongsu 2(i)-ga 3(sam)-dong,Seongdong-gu,29.0,7,2,-,-,-,15,1,-,1,-,3
+Songjeong-dong,Seongdong-gu,12.0,2,-,2,-,-,6,-,-,-,-,2
+Yongdap-dong,Seongdong-gu,13.0,3,2,-,-,1,6,-,-,-,1,-
+WangsimniDoseon-dong,Seongdong-gu,13.0,2,-,-,-,1,9,-,-,1,-,-
+Geumho 2.3(i.sam)-ga-dong,Seongdong-gu,8.0,3,1,-,-,-,4,-,-,-,-,-
+Oksu-dong,Seongdong-gu,9.0,2,2,-,-,-,3,-,-,-,1,1
+Hwayang-dong,Gwangjin-gu,37.0,14,2,1,-,-,18,-,-,-,-,2
+Gunja-dong,Gwangjin-gu,12.0,5,-,-,-,-,4,-,-,-,-,3
+Junggok 1(il)-dong,Gwangjin-gu,12.0,3,-,-,-,-,8,-,-,-,-,1
+Junggok 2(i)-dong,Gwangjin-gu,12.0,3,-,-,-,-,9,-,-,-,-,-
+Junggok 3(sam)-dong,Gwangjin-gu,9.0,-,1,-,1,-,5,-,-,-,1,1
+Junggok 4(sa)-dong,Gwangjin-gu,10.0,3,-,-,-,-,6,-,-,1,-,-
+Neung-dong,Gwangjin-gu,6.0,1,-,-,-,-,5,-,-,-,-,-
+Guui 1(il)-dong,Gwangjin-gu,18.0,7,-,-,-,-,9,-,-,-,1,1
+Guui 2(i)-dong,Gwangjin-gu,7.0,2,-,-,-,-,3,-,-,-,2,-
+Guui 3(sam)-dong,Gwangjin-gu,11.0,4,-,-,-,-,6,-,-,-,-,1
+Gwangjang-dong,Gwangjin-gu,14.0,1,2,-,-,-,8,1,-,-,-,2
+Jayang 1(il)-dong,Gwangjin-gu,16.0,5,-,-,-,-,9,-,-,-,2,-
+Jayang 2(i)-dong,Gwangjin-gu,14.0,4,-,-,-,-,10,-,-,-,-,-
+Jayang 3(sam)-dong,Gwangjin-gu,9.0,3,-,-,-,-,6,-,-,-,-,-
+Jayang 4(sa)-dong,Gwangjin-gu,27.0,11,1,-,-,1,14,-,-,-,-,-
+Hoegi-dong,Dongdaemun-gu,10.0,3,1,-,-,-,4,-,-,-,-,2
+Hwigyeong 1(il)-dong,Dongdaemun-gu,7.0,2,1,-,-,-,3,-,-,1,-,-
+Hwigyeong 2(i)-dong,Dongdaemun-gu,9.0,5,-,-,-,-,3,-,-,-,-,1
+Cheongnyangni-dong,Dongdaemun-gu,12.0,5,1,-,-,-,2,1,-,-,-,3
+Yongsin-dong,Dongdaemun-gu,30.0,12,-,-,-,-,16,-,-,-,-,2
+Jegi-dong,Dongdaemun-gu,29.0,10,1,-,-,-,13,-,-,-,-,5
+Jeonnong 1(il)-dong,Dongdaemun-gu,20.0,3,2,-,-,-,12,-,1,-,-,2
+Jeonnong 2(i)-dong,Dongdaemun-gu,12.0,7,2,-,-,-,3,-,-,-,-,-
+Dapsimni 1(il)-dong,Dongdaemun-gu,9.0,2,-,-,-,-,6,-,-,-,-,1
+Dapsimni 2(i)-dong,Dongdaemun-gu,6.0,3,-,-,-,-,1,-,-,-,-,2
+Jangan 1(il)-dong,Dongdaemun-gu,19.0,2,2,-,-,-,12,-,-,-,-,3
+Jangan 2(i)-dong,Dongdaemun-gu,28.0,8,3,-,-,-,14,-,-,2,-,1
+Imun 1(il)-dong,Dongdaemun-gu,7.0,-,-,-,-,-,6,-,-,-,1,-
+Imun 2(i)-dong,Dongdaemun-gu,8.0,2,-,-,-,-,6,-,-,-,-,-
+Myeonmok 2(i)-dong,Jungnang-gu,11.0,7,-,-,-,-,3,-,-,-,1,-
+Myeonmok 4(sa)-dong,Jungnang-gu,4.0,2,-,-,-,-,-,-,-,-,1,1
+Myeonmok 5(o)-dong,Jungnang-gu,2.0,-,-,-,-,-,2,-,-,-,-,-
+Myeonmok 7(chil)-dong,Jungnang-gu,6.0,2,-,-,-,-,3,-,-,-,-,1
+Sangbong 1(il)-dong,Jungnang-gu,7.0,3,-,-,-,-,4,-,-,-,-,-
+Sangbong 2(i)-dong,Jungnang-gu,16.0,5,2,-,-,-,5,-,-,1,-,3
+Junghwa 1(il)-dong,Jungnang-gu,6.0,5,-,-,-,-,-,-,-,-,1,-
+Junghwa 2(i)-dong,Jungnang-gu,17.0,1,-,-,-,-,5,-,-,5,3,3
+Muk 1(il)-dong,Jungnang-gu,8.0,2,-,-,-,-,3,-,-,-,-,3
+Muk 2(i)-dong,Jungnang-gu,9.0,5,-,-,-,1,2,-,-,-,-,1
+Mangu 3(sam)-dong,Jungnang-gu,9.0,3,1,-,-,-,3,-,-,-,1,1
+Sinnae 1(il)-dong,Jungnang-gu,12.0,2,1,-,-,-,8,-,-,-,1,-
+Sinnae 2(i)-dong,Jungnang-gu,4.0,1,1,-,-,-,1,1,-,-,-,-
+Myeonmokbon-dong,Jungnang-gu,14.0,5,3,-,-,-,3,-,-,1,-,2
+Myeonmok 3.8(sam.pal)-dong,Jungnang-gu,20.0,6,3,-,-,-,7,-,-,-,2,2
+Mangubon-dong,Jungnang-gu,13.0,8,-,-,-,-,3,-,-,-,1,1
+Donam 1(il)-dong,Seongbuk-gu,4.0,1,-,-,-,-,3,-,-,-,-,-
+Donam 2(i)-dong,Seongbuk-gu,7.0,1,1,-,-,-,5,-,-,-,-,-
+Anam-dong,Seongbuk-gu,12.0,4,-,-,-,-,6,-,-,1,-,1
+Bomun-dong,Seongbuk-gu,9.0,4,-,-,-,-,4,-,-,-,-,1
+Jeongneung 1(il)-dong,Seongbuk-gu,5.0,3,-,-,-,-,2,-,-,-,-,-
+Jeongneung 2(i)-dong,Seongbuk-gu,7.0,1,-,-,-,-,5,-,-,-,-,1
+Jeongneung 3(sam)-dong,Seongbuk-gu,4.0,1,-,-,-,1,1,-,-,-,-,1
+Jeongneung 4(sa)-dong,Seongbuk-gu,12.0,3,-,-,-,-,7,-,-,-,-,2
+Gireum 1(il)-dong,Seongbuk-gu,7.0,3,1,-,-,-,2,-,-,-,-,1
+Gireum 2(i)-dong,Seongbuk-gu,13.0,3,-,-,-,1,7,-,-,-,1,1
+Wolgok 1(il)-dong,Seongbuk-gu,10.0,1,-,-,-,-,7,-,-,1,-,1
+Wolgok 2(i)-dong,Seongbuk-gu,11.0,4,1,-,-,-,6,-,-,-,-,-
+Jangwi 1(il)-dong,Seongbuk-gu,13.0,3,1,-,-,-,9,-,-,-,-,-
+Jangwi 2(i)-dong,Seongbuk-gu,9.0,1,-,-,-,-,7,-,-,-,-,1
+Jangwi 3(sam)-dong,Seongbuk-gu,12.0,3,-,-,-,-,8,-,-,1,-,-
+Seongbuk-dong,Seongbuk-gu,10.0,4,-,-,-,-,6,-,-,-,-,-
+Samseon-dong,Seongbuk-gu,10.0,2,2,-,-,-,6,-,-,-,-,-
+Dongseon-dong,Seongbuk-gu,17.0,6,1,-,-,-,9,-,-,-,-,1
+Jongam-dong,Seongbuk-gu,19.0,3,-,-,-,-,15,-,-,-,-,1
+Seokgwan-dong,Seongbuk-gu,13.0,2,1,-,-,-,10,-,-,-,-,-
+Beon 1(il)-dong,Gangbuk-gu,25.0,4,-,-,-,-,20,-,-,-,1,-
+Beon 2(i)-dong,Gangbuk-gu,12.0,2,-,-,-,-,8,-,-,-,2,-
+Beon 3(sam)-dong,Gangbuk-gu,7.0,-,1,-,-,-,6,-,-,-,-,-
+Suyu 1(il)-dong,Gangbuk-gu,18.0,4,-,-,-,-,14,-,-,-,-,-
+Suyu 2(i)-dong,Gangbuk-gu,14.0,2,1,-,-,-,10,-,-,-,-,1
+Suyu 3(sam)-dong,Gangbuk-gu,26.0,10,1,-,-,-,13,-,-,2,-,-
+Samyang-dong,Gangbuk-gu,19.0,6,-,-,-,-,12,-,-,-,1,-
+Mia-dong,Gangbuk-gu,18.0,4,2,-,-,-,10,-,-,-,-,2
+Songjung-dong,Gangbuk-gu,25.0,4,2,1,-,-,15,-,-,-,1,2
+Songcheon-dong,Gangbuk-gu,27.0,2,1,-,-,-,19,1,-,-,1,3
+Samgaksan-dong,Gangbuk-gu,9.0,-,-,-,-,-,9,-,-,-,-,-
+Ui-dong,Gangbuk-gu,14.0,-,1,-,-,-,10,1,-,-,1,1
+Insu-dong,Gangbuk-gu,15.0,2,-,-,-,-,12,1,-,-,-,-
+Ssangmun 1(il)-dong,Dobong-gu,13.0,2,-,1,-,-,9,-,-,1,-,-
+Ssangmun 2(i)-dong,Dobong-gu,19.0,7,-,-,-,-,9,-,-,2,-,1
+Ssangmun 3(sam)-dong,Dobong-gu,9.0,-,-,-,-,-,6,-,-,-,2,1
+Ssangmun 4(sa)-dong,Dobong-gu,4.0,2,-,-,-,-,2,-,-,-,-,-
+Banghak 1(il)-dong,Dobong-gu,18.0,4,-,-,-,-,13,-,-,-,-,1
+Banghak 2(i)-dong,Dobong-gu,21.0,2,-,-,-,-,16,-,-,1,-,2
+Banghak 3(sam)-dong,Dobong-gu,18.0,2,-,-,-,-,14,-,-,-,2,-
+Chang 1(il)-dong,Dobong-gu,14.0,4,-,-,-,-,9,-,-,-,-,1
+Chang 2(i)-dong,Dobong-gu,15.0,5,-,-,-,-,9,-,-,-,-,1
+Chang 3(sam)-dong,Dobong-gu,15.0,1,-,-,-,-,11,-,-,-,2,1
+Chang 4(sa)-dong,Dobong-gu,13.0,-,-,-,-,-,13,-,-,-,-,-
+Chang 5(o)-dong,Dobong-gu,13.0,2,1,-,-,-,6,-,-,-,-,4
+Dobong 1(il)-dong,Dobong-gu,25.0,4,-,-,-,-,17,-,-,-,-,4
+Dobong 2(i)-dong,Dobong-gu,21.0,2,1,-,-,-,16,-,1,-,1,-
+Wolgye 1(il)-dong,Nowon-gu,14.0,3,-,-,-,-,9,-,-,-,1,1
+Wolgye 2(i)-dong,Nowon-gu,9.0,1,1,-,-,-,5,-,-,-,2,-
+Wolgye 3(sam)-dong,Nowon-gu,10.0,1,-,-,-,-,9,-,-,-,-,-
+Gongneung 2(i)-dong,Nowon-gu,13.0,4,-,-,-,1,7,1,-,-,-,-
+Hagye 1(il)-dong,Nowon-gu,14.0,2,2,-,-,-,10,-,-,-,-,-
+Hagye 2(i)-dong,Nowon-gu,9.0,2,-,-,-,1,5,-,-,1,-,-
+Junggyebon-dong,Nowon-gu,18.0,-,2,-,-,-,14,-,-,-,-,2
+Junggye 1(il)-dong,Nowon-gu,8.0,2,-,-,-,-,5,-,-,-,1,-
+Junggye 4(sa)-dong,Nowon-gu,10.0,2,1,-,-,-,7,-,-,-,-,-
+Sanggye 1(il)-dong,Nowon-gu,24.0,8,1,-,-,1,13,-,-,1,-,-
+Sanggye 2(i)-dong,Nowon-gu,17.0,5,-,-,-,-,10,-,-,1,1,-
+Sanggye 5(o)-dong,Nowon-gu,15.0,-,-,1,-,-,11,-,1,1,1,-
+Sanggye 8(pal)-dong,Nowon-gu,8.0,-,1,-,-,-,6,-,-,1,-,-
+Sanggye 9(gu)-dong,Nowon-gu,1.0,-,-,-,-,-,1,-,-,-,-,-
+Sanggye 10(sip)-dong,Nowon-gu,7.0,1,1,-,-,1,4,-,-,-,-,-
+Sanggye 3.4(sam.sa)-dong,Nowon-gu,30.0,8,-,-,-,-,17,-,-,2,-,3
+Sanggye 6.7(yuk.chil)-dong,Nowon-gu,12.0,2,1,-,-,-,9,-,-,-,-,-
+Junggye 2.3(i.sam)-dong,Nowon-gu,17.0,3,-,-,-,1,11,1,-,-,1,-
+Gongneung 1(il)-dong,Nowon-gu,24.0,6,3,-,-,-,15,-,-,-,-,-
+Nokbeon-dong,Eunpyeong-gu,19.0,8,-,-,-,-,8,-,-,-,-,3
+Bulgwang 1(il)-dong,Eunpyeong-gu,8.0,1,-,-,-,-,6,-,-,1,-,-
+Galhyeon 1(il)-dong,Eunpyeong-gu,15.0,7,-,-,-,1,6,-,-,1,-,-
+Galhyeon 2(i)-dong,Eunpyeong-gu,17.0,2,-,-,-,-,8,-,-,1,-,6
+Gusan-dong,Eunpyeong-gu,11.0,4,-,-,-,-,6,-,-,-,-,1
+Daejo-dong,Eunpyeong-gu,22.0,6,-,-,-,-,10,-,-,3,-,3
+Eungam 1(il)-dong,Eunpyeong-gu,17.0,5,1,-,1,-,6,-,-,1,-,3
+Eungam 2(i)-dong,Eunpyeong-gu,7.0,2,1,-,-,-,4,-,-,-,-,-
+Sinsa 1(il)-dong,Eunpyeong-gu,14.0,5,-,-,-,-,7,-,-,-,-,2
+Sinsa 2(i)-dong,Eunpyeong-gu,2.0,1,-,-,-,-,1,-,-,-,-,-
+Jeungsan-dong,Eunpyeong-gu,10.0,4,-,-,-,-,4,-,-,1,-,1
+Susaek-dong,Eunpyeong-gu,12.0,2,-,-,-,-,7,-,-,-,-,3
+Jingwan-dong,Eunpyeong-gu,13.0,1,1,-,-,1,7,1,-,-,1,1
+Bulgwang 2(i)-dong,Eunpyeong-gu,7.0,1,-,-,-,-,3,-,-,1,-,2
+Eungam 3(sam)-dong,Eunpyeong-gu,21.0,4,-,-,-,-,12,1,-,1,-,3
+Yeokchon-dong,Eunpyeong-gu,16.0,4,1,-,-,-,9,-,-,-,1,1
+Cheonyeon-dong,Seodaemun-gu,10.0,1,-,-,-,-,7,-,-,1,1,-
+Hongje 1(il)-dong,Seodaemun-gu,15.0,3,3,-,-,-,9,-,-,-,-,-
+Hongje 3(sam)-dong,Seodaemun-gu,16.0,5,-,-,-,-,10,-,-,1,-,-
+Hongje 2(i)-dong,Seodaemun-gu,6.0,2,-,-,1,-,2,-,-,-,-,1
+Hongeun 1(il)-dong,Seodaemun-gu,17.0,1,2,-,-,-,13,-,-,-,-,1
+Hongeun 2(i)-dong,Seodaemun-gu,17.0,5,2,-,-,-,10,-,-,-,-,-
+Namgajwa 1(il)-dong,Seodaemun-gu,9.0,3,-,-,-,-,4,1,-,-,-,1
+Namgajwa 2(i)-dong,Seodaemun-gu,19.0,2,1,-,1,-,12,-,-,1,2,-
+Bukgajwa 1(il)-dong,Seodaemun-gu,4.0,-,-,-,-,-,4,-,-,-,-,-
+Bukgajwa 2(i)-dong,Seodaemun-gu,21.0,4,-,-,-,-,10,-,-,1,4,2
+Chunghyeon-dong,Seodaemun-gu,23.0,5,-,-,-,-,13,1,-,1,2,1
+Bugahyeon-dong,Seodaemun-gu,8.0,3,1,-,-,-,4,-,-,-,-,-
+Sinchon-dong,Seodaemun-gu,35.0,14,1,1,-,1,17,-,-,-,-,1
+Yeonhui-dong,Seodaemun-gu,21.0,4,1,-,-,-,15,-,-,-,-,1
+Yonggang-dong,Mapo-gu,9.0,6,-,-,-,-,-,1,-,-,1,1
+Daeheung-dong,Mapo-gu,18.0,7,2,-,-,-,8,-,-,-,1,-
+Yeomni-dong,Mapo-gu,6.0,1,-,-,-,-,5,-,-,-,-,-
+Sinsu-dong,Mapo-gu,6.0,2,-,-,-,-,4,-,-,-,-,-
+Seogyo-dong,Mapo-gu,59.0,24,-,-,-,-,30,-,-,1,1,3
+Hapjeong-dong,Mapo-gu,13.0,3,1,-,-,-,6,-,-,-,-,3
+Mangwon 1(il)-dong,Mapo-gu,10.0,4,-,-,-,1,3,-,-,-,1,1
+Mangwon 2(i)-dong,Mapo-gu,8.0,3,-,-,-,-,4,-,-,-,-,1
+Yeonnam-dong,Mapo-gu,8.0,2,-,-,-,-,6,-,-,-,-,-
+Seongsan 1(il)-dong,Mapo-gu,13.0,3,2,-,-,-,6,-,-,-,-,2
+Seongsan 2(i)-dong,Mapo-gu,17.0,4,2,-,-,-,8,-,-,1,-,2
+Sangam-dong,Mapo-gu,15.0,4,1,-,-,-,7,-,-,1,-,2
+Dohwa-dong,Mapo-gu,5.0,3,-,-,-,-,1,-,-,-,-,1
+Seogang-dong,Mapo-gu,13.0,-,-,-,-,-,11,-,-,-,1,1
+gongdeok-dong,Mapo-gu,22.0,9,-,-,-,-,9,-,-,-,1,3
+Ahyeon-dong,Mapo-gu,4.0,-,1,-,-,-,2,-,-,-,-,1
+Mok 1(il)-dong,Yangcheon-gu,16.0,5,1,-,-,-,8,-,-,-,-,2
+Mok 2(i)-dong,Yangcheon-gu,18.0,5,-,-,-,-,12,-,-,1,-,-
+Mok 3(sam)-dong,Yangcheon-gu,20.0,7,-,-,-,-,11,1,-,-,-,1
+Mok 4(sa)-dong,Yangcheon-gu,21.0,5,1,-,-,-,13,1,-,-,-,1
+Sinwol 1(il)-dong,Yangcheon-gu,19.0,7,-,-,-,-,11,-,-,-,-,1
+Sinwol 2(i)-dong,Yangcheon-gu,10.0,3,-,-,-,-,6,-,-,-,-,1
+Sinwol 3(sam)-dong,Yangcheon-gu,11.0,3,-,-,-,-,7,-,-,-,-,1
+Sinwol 4(sa)-dong,Yangcheon-gu,7.0,-,-,-,-,-,5,-,-,-,1,1
+Sinwol 5(o)-dong,Yangcheon-gu,7.0,1,-,-,-,-,6,-,-,-,-,-
+Sinwol 6(yuk)-dong,Yangcheon-gu,7.0,2,-,-,-,-,4,-,-,-,-,1
+Sinwol 7(chil)-dong,Yangcheon-gu,14.0,2,1,-,-,-,10,-,-,-,-,1
+Sinjeong 1(il)-dong,Yangcheon-gu,7.0,3,2,-,-,-,1,-,-,-,-,1
+Sinjeong 2(i)-dong,Yangcheon-gu,9.0,2,-,-,-,-,6,-,-,1,-,-
+Sinjeong 3(sam)-dong,Yangcheon-gu,17.0,4,-,-,-,1,11,-,-,-,-,1
+Sinjeong 6(yuk)-dong,Yangcheon-gu,7.0,2,-,-,-,1,3,-,-,-,-,1
+Sinjeong 7(chil)-dong,Yangcheon-gu,6.0,-,-,-,-,-,5,-,-,-,-,1
+Mok 5(o)-dong,Yangcheon-gu,9.0,2,1,-,-,-,6,-,-,-,-,-
+Sinjeong 4(sa)-dong,Yangcheon-gu,28.0,7,1,-,-,1,15,-,-,-,-,4
+Yeomchang-dong,Gangseo-gu,8.0,1,2,-,-,-,4,-,-,-,-,1
+Deungchon 1(il)-dong,Gangseo-gu,13.0,4,-,-,-,-,8,-,-,-,-,1
+Deungchon 2(i)-dong,Gangseo-gu,8.0,5,-,-,-,-,2,-,-,-,-,1
+Deungchon 3(sam)-dong,Gangseo-gu,11.0,-,-,-,-,-,11,-,-,-,-,-
+Hwagokbon-dong,Gangseo-gu,13.0,4,-,1,-,-,8,-,-,-,-,-
+Hwagok 2(i)-dong,Gangseo-gu,8.0,3,-,-,-,-,4,-,-,-,1,-
+Hwagok 3(sam)-dong,Gangseo-gu,8.0,4,-,-,-,-,3,-,-,-,1,-
+Hwagok 4(sa)-dong,Gangseo-gu,9.0,2,-,1,-,-,6,-,-,-,-,-
+Hwagok 6(yuk)-dong,Gangseo-gu,14.0,4,-,-,-,-,8,-,-,1,-,1
+Hwagok 8(pal)-dong,Gangseo-gu,10.0,6,1,-,-,-,3,-,-,-,-,-
+Gayang 1(il)-dong,Gangseo-gu,15.0,6,1,-,-,-,8,-,-,-,-,-
+Gayang 2(i)-dong,Gangseo-gu,5.0,3,-,-,-,-,2,-,-,-,-,-
+Gayang 3(sam)-dong,Gangseo-gu,3.0,-,1,-,-,-,1,-,-,-,1,-
+Balsan 1(il)-dong,Gangseo-gu,10.0,2,-,-,-,-,6,-,-,1,-,1
+Gonghang-dong,Gangseo-gu,15.0,5,-,-,-,-,8,-,-,-,-,2
+Banghwa 1(il)-dong,Gangseo-gu,12.0,2,2,-,-,-,5,1,-,1,-,1
+Banghwa 2(i)-dong,Gangseo-gu,28.0,7,2,1,-,-,13,1,-,-,3,1
+Banghwa 3(sam)-dong,Gangseo-gu,10.0,3,-,-,-,-,6,-,-,-,1,-
+Hwagok 1(il)-dong,Gangseo-gu,22.0,10,-,-,-,-,11,-,-,-,-,1
+Ujangsan-dong,Gangseo-gu,20.0,9,2,-,-,-,7,1,-,-,1,-
+Sindorim-dong,Guro-gu,10.0,3,-,-,-,-,6,-,-,-,1,-
+Guro 1(il)-dong,Guro-gu,6.0,2,-,-,-,-,2,1,-,-,-,1
+Guro 3(sam)-dong,Guro-gu,28.0,9,3,1,-,-,14,1,-,-,-,-
+Guro 4(sa)-dong,Guro-gu,13.0,2,-,-,-,-,9,-,-,1,1,-
+Guro 5(o)-dong,Guro-gu,18.0,6,-,1,-,-,10,-,-,-,-,1
+Gocheok 1(il)-dong,Guro-gu,15.0,2,1,-,-,-,9,-,-,1,1,1
+Gocheok 2(i)-dong,Guro-gu,13.0,5,-,-,-,-,7,-,-,-,-,1
+Gaebong 2(i)-dong,Guro-gu,15.0,8,-,-,-,-,6,-,-,1,-,-
+Gaebong 3(sam)-dong,Guro-gu,12.0,2,-,-,-,-,10,-,-,-,-,-
+Oryu 1(il)-dong,Guro-gu,7.0,1,-,-,-,-,5,-,-,-,1,-
+Oryu 2(i)-dong,Guro-gu,17.0,4,-,-,-,-,9,-,-,1,-,3
+Sugung-dong,Guro-gu,22.0,5,6,-,-,-,9,-,-,-,-,2
+Garibong-dong,Guro-gu,13.0,6,-,-,-,-,5,-,-,-,2,-
+Guro 2(i)-dong,Guro-gu,30.0,6,3,-,-,-,18,1,-,-,-,2
+Gaebong 1(il)-dong,Guro-gu,19.0,7,2,-,1,-,7,-,-,-,-,2
+Gasan-dong,Geumcheon-gu,27.0,8,3,-,1,-,10,-,-,-,3,2
+Doksan 1(il)-dong,Geumcheon-gu,25.0,3,4,1,-,-,11,-,-,-,1,5
+Doksan 2(i)-dong,Geumcheon-gu,10.0,2,1,-,-,-,7,-,-,-,-,-
+Doksan 3(sam)-dong,Geumcheon-gu,13.0,3,-,-,-,-,8,-,-,-,-,2
+Doksan 4(sa)-dong,Geumcheon-gu,12.0,5,-,-,-,-,6,-,-,-,-,1
+Siheung 1(il)-dong,Geumcheon-gu,24.0,7,1,-,1,1,11,-,-,1,-,2
+Siheung 2(i)-dong,Geumcheon-gu,8.0,2,1,-,-,-,4,-,-,-,-,1
+Siheung 3(sam)-dong,Geumcheon-gu,6.0,1,-,-,-,-,4,-,-,-,-,1
+Siheung 4(sa)-dong,Geumcheon-gu,12.0,1,1,-,-,-,9,-,-,-,1,-
+Siheung 5(o)-dong,Geumcheon-gu,7.0,4,1,-,-,-,2,-,-,-,-,-
+Yeouido-dong,Yeongdeungpo-gu,24.0,5,1,-,-,-,14,-,-,-,-,4
+Dangsan 1(il)-dong,Yeongdeungpo-gu,11.0,5,-,-,-,-,4,-,-,-,1,1
+Dangsan2(i)-dong,Yeongdeungpo-gu,12.0,5,-,-,-,-,5,-,-,-,1,1
+Yangpyeong 1(il)-dong,Yeongdeungpo-gu,8.0,3,-,-,-,-,3,-,-,-,-,2
+Yangpyeong 2(i)-dong,Yeongdeungpo-gu,6.0,-,1,-,-,-,5,-,-,-,-,-
+Singil 1(il)-dong,Yeongdeungpo-gu,10.0,3,2,-,-,-,3,-,-,1,1,-
+Singil 3(sam)-dong,Yeongdeungpo-gu,6.0,2,-,-,-,-,2,-,-,-,2,-
+Singil 4(sa)-dong,Yeongdeungpo-gu,9.0,4,1,-,-,-,2,-,-,-,-,2
+Singil 5(o)-dong,Yeongdeungpo-gu,3.0,-,-,-,-,-,3,-,-,-,-,-
+Singil 6(yuk)-dong,Yeongdeungpo-gu,20.0,7,2,-,-,-,7,-,-,-,1,3
+Singil 7(chil)-dong,Yeongdeungpo-gu,3.0,-,-,-,-,-,3,-,-,-,-,-
+Daerim 1(il)-dong,Yeongdeungpo-gu,6.0,1,-,-,-,-,3,-,-,-,1,1
+Daerim 2(i)-dong,Yeongdeungpo-gu,5.0,-,-,-,-,-,4,-,-,-,1,-
+Daerim 3(sam)-dong,Yeongdeungpo-gu,13.0,3,-,-,-,-,8,-,-,-,2,-
+Yeongdeungpobon-dong,Yeongdeungpo-gu,11.0,3,-,-,-,-,7,-,-,-,1,-
+Yeongdeungpo-dong,Yeongdeungpo-gu,37.0,9,1,-,-,-,13,-,-,2,7,5
+Dorim-dong,Yeongdeungpo-gu,11.0,3,-,-,-,-,6,-,-,-,2,-
+Mullae-dong,Yeongdeungpo-gu,24.0,7,3,-,-,-,10,-,-,-,-,4
+Noryangjin 2(i)-dong,Dongjak-gu,5.0,1,-,-,-,-,4,-,-,-,-,-
+Sangdo 1(il)-dong,Dongjak-gu,15.0,4,1,-,-,-,7,-,-,-,-,3
+Sangdo 2(i)-dong,Dongjak-gu,12.0,4,-,-,-,-,7,-,-,-,-,1
+Sangdo 3(sam)-dong,Dongjak-gu,7.0,-,-,-,-,-,7,-,-,-,-,-
+Sangdo 4(sa)-dong,Dongjak-gu,11.0,5,-,-,-,-,6,-,-,-,-,-
+Sadang 1(il)-dong,Dongjak-gu,13.0,5,-,-,-,-,8,-,-,-,-,-
+Sadang 3(sam)-dong,Dongjak-gu,5.0,1,-,-,-,-,4,-,-,-,-,-
+Sadang 4(sa)-dong,Dongjak-gu,4.0,3,1,-,-,-,-,-,-,-,-,-
+Sadang 5(o)-dong,Dongjak-gu,5.0,3,-,-,-,-,2,-,-,-,-,-
+Daebang-dong,Dongjak-gu,20.0,9,-,-,-,-,10,-,-,-,1,-
+Sindaebang 1(il)-dong,Dongjak-gu,7.0,1,-,-,-,-,6,-,-,-,-,-
+Sindaebang 2(i)-dong,Dongjak-gu,3.0,-,-,-,-,-,3,-,-,-,-,-
+Heukseok-dong,Dongjak-gu,16.0,4,-,-,-,1,9,-,-,-,1,1
+Noryangjin 1(il)-dong,Dongjak-gu,19.0,8,1,-,-,-,9,-,-,-,-,1
+Sadang 2(i)-dong,Dongjak-gu,17.0,4,2,-,-,-,10,-,-,-,1,-
+Boramae-dong,Gwanak-gu,19.0,4,2,-,-,1,12,-,-,-,-,-
+Cheongnim-dong,Gwanak-gu,5.0,1,-,-,-,-,4,-,-,-,-,-
+Haengun-dong,Gwanak-gu,10.0,3,-,-,-,-,6,-,-,-,-,1
+Nagseongdae-dong,Gwanak-gu,16.0,2,1,-,-,-,12,-,-,-,-,1
+Jungang-dong,Gwanak-gu,12.0,4,-,-,-,-,7,-,-,-,-,1
+Inheon-dong,Gwanak-gu,12.0,1,-,-,-,-,11,-,-,-,-,-
+Namhyeon-dong,Gwanak-gu,14.0,6,-,-,-,1,6,-,-,-,1,-
+Sewon-dong,Gwanak-gu,20.0,7,1,-,-,-,11,-,-,-,1,-
+Sinwon-dong,Gwanak-gu,10.0,3,-,-,-,-,6,-,-,-,1,-
+Serim-dong,Gwanak-gu,16.0,3,-,-,-,-,12,-,-,1,-,-
+Sinsa-dong,Gwanak-gu,16.0,4,1,-,-,-,10,-,-,-,1,-
+Sillim-dong,Gwanak-gu,18.0,7,1,-,-,-,10,-,-,-,-,-
+Nanhyang-dong,Gwanak-gu,4.0,1,-,-,-,-,2,-,-,-,1,-
+Jowon-dong,Gwanak-gu,16.0,5,1,-,-,-,8,-,-,-,1,1
+Daehak-dong,Gwanak-gu,14.0,2,-,-,-,-,10,-,-,1,-,1
+Euncheon-dong,Gwanak-gu,12.0,5,-,-,-,-,4,-,-,-,2,1
+Seonghyeon-dong,Gwanak-gu,11.0,4,-,-,-,-,6,-,-,-,-,1
+Cheongnyong-dong,Gwanak-gu,19.0,1,-,-,-,-,14,1,-,-,1,2
+Nangok-dong,Gwanak-gu,21.0,4,-,-,-,-,16,-,-,-,1,-
+Samseong-dong,Gwanak-gu,15.0,5,-,-,-,-,8,-,-,-,2,-
+Miseong-dong,Gwanak-gu,19.0,3,-,-,-,-,14,-,-,1,1,-
+Seocho 1(il)-dong,Seocho-gu,6.0,3,-,-,-,-,3,-,-,-,-,-
+Seocho 2(i)-dong,Seocho-gu,18.0,5,-,-,-,-,8,-,-,-,-,5
+Seocho 3(sam)-dong,Seocho-gu,21.0,4,4,-,-,-,12,-,-,-,-,1
+Seocho 4(sa)-dong,Seocho-gu,17.0,8,-,-,-,1,6,-,-,1,-,1
+Jamwon-dong,Seocho-gu,15.0,4,2,-,-,-,6,1,-,1,-,1
+Banpobon-dong,Seocho-gu,5.0,2,-,-,-,-,2,-,-,-,1,-
+Banpo 1(il)-dong,Seocho-gu,16.0,5,2,-,-,-,8,-,-,1,-,-
+Banpo 2(i)-dong,Seocho-gu,2.0,1,1,-,-,-,-,-,-,-,-,-
+Banpo 3(sam)-dong,Seocho-gu,4.0,1,-,-,-,-,3,-,-,-,-,-
+Banpo 4(sa)-dong,Seocho-gu,10.0,1,1,-,1,-,7,-,-,-,-,-
+Bangbaebon-dong,Seocho-gu,7.0,2,1,-,-,-,2,-,-,-,-,2
+Bangbae 1(il)-dong,Seocho-gu,9.0,4,-,-,-,-,4,-,-,-,-,1
+Bangbae 2(i)-dong,Seocho-gu,10.0,4,1,-,-,-,5,-,-,-,-,-
+Bangbae 3(sam)-dong,Seocho-gu,10.0,2,1,-,-,-,5,-,-,-,-,2
+Bangbae 4(sa)-dong,Seocho-gu,5.0,3,-,-,-,-,2,-,-,-,-,-
+Yangjae 1(il)-dong,Seocho-gu,25.0,10,3,-,-,1,10,-,-,-,1,-
+Yangjae 2(i)-dong,Seocho-gu,23.0,5,5,-,-,1,11,1,-,-,-,-
+Naegok-dong,Seocho-gu,13.0,1,-,-,-,-,6,-,-,-,1,5
+Sinsa-dong,Gangnam-gu,29.0,11,4,-,-,1,13,-,-,-,-,-
+Nonhyeon 1(il)-dong,Gangnam-gu,42.0,16,-,-,-,-,23,-,-,-,1,2
+Nonhyeon 2(i)-dong,Gangnam-gu,33.0,11,-,1,-,-,16,-,-,-,1,4
+Samseong 1(il)-dong,Gangnam-gu,10.0,4,2,-,-,-,3,-,-,-,-,1
+Samseong 2(i)-dong,Gangnam-gu,16.0,3,-,-,-,-,11,-,-,-,1,1
+Daechi 1(il)-dong,Gangnam-gu,7.0,1,1,-,-,-,4,-,-,-,-,1
+Daechi 4(sa)-dong,Gangnam-gu,21.0,7,1,-,-,-,13,-,-,-,-,-
+Yeoksam 1(il)-dong,Gangnam-gu,56.0,17,1,1,-,2,30,-,-,-,2,3
+Yeoksam 2(i)-dong,Gangnam-gu,16.0,5,1,1,-,-,8,-,-,-,-,1
+Dogok 1(il)-dong,Gangnam-gu,12.0,7,-,-,-,-,3,-,-,1,-,1
+Dogok 2(i)-dong,Gangnam-gu,8.0,2,2,-,-,-,2,-,-,-,-,2
+Gaepo 1(il)-dong,Gangnam-gu,15.0,3,1,-,-,-,11,-,-,-,-,-
+Gaepo 4(sa)-dong,Gangnam-gu,20.0,10,2,-,-,-,6,-,-,-,-,2
+Irwonbon-dong,Gangnam-gu,6.0,3,-,-,-,1,1,-,-,-,-,1
+Irwon 1(il)-dong,Gangnam-gu,9.0,2,-,1,-,1,5,-,-,-,-,-
+Irwon 2(i)-dong,Gangnam-gu,5.0,1,1,-,-,-,3,-,-,-,-,-
+Suseo-dong,Gangnam-gu,9.0,-,1,-,-,-,5,-,-,-,3,-
+Segok-dong,Gangnam-gu,13.0,3,3,-,-,-,6,-,-,-,-,1
+Apgujeong -dong,Gangnam-gu,32.0,13,2,-,-,-,16,-,-,-,1,-
+Cheongdam -dong,Gangnam-gu,29.0,5,3,1,-,-,20,-,-,-,-,-
+Daechi 2(i)-dong,Gangnam-gu,20.0,8,1,-,-,-,10,-,-,-,-,1
+Gaepo 2(i)-dong,Gangnam-gu,13.0,2,1,-,1,-,8,-,-,-,-,1
+Pungnap 1(il)-dong,Songpa-gu,8.0,3,-,-,-,-,2,-,-,-,2,1
+Pungnap 2(i)-dong,Songpa-gu,18.0,5,1,-,-,1,10,-,-,-,-,1
+Geoyeo 1(il)-dong,Songpa-gu,9.0,4,-,-,-,-,5,-,-,-,-,-
+Geoyeo 2(i)-dong,Songpa-gu,12.0,2,-,-,-,-,8,-,-,-,2,-
+Macheon 1(il)-dong,Songpa-gu,8.0,3,-,-,-,-,2,-,-,-,1,2
+Macheon 2(i)-dong,Songpa-gu,13.0,1,-,-,-,-,11,-,-,-,1,-
+Bangi 1(il)-dong,Songpa-gu,4.0,3,-,-,-,-,1,-,-,-,-,-
+Bangi 2(i)-dong,Songpa-gu,22.0,8,-,1,-,-,11,-,-,-,1,1
+Oryun-dong,Songpa-gu,6.0,2,-,-,-,-,3,-,-,-,-,1
+Ogeum-dong,Songpa-gu,17.0,5,-,-,-,-,10,-,-,-,2,-
+Songpa 1(il)-dong,Songpa-gu,14.0,6,-,-,-,-,6,-,-,-,-,2
+Songpa 2(i)-dong,Songpa-gu,4.0,2,-,-,-,-,1,-,-,-,-,1
+Seokchon-dong,Songpa-gu,27.0,8,-,-,-,-,17,-,-,-,-,2
+Samjeon-dong,Songpa-gu,11.0,3,2,-,-,-,3,1,-,-,1,1
+Garakbon-dong,Songpa-gu,19.0,4,2,-,-,-,10,-,-,-,-,3
+Garak 1(il)-dong,Songpa-gu,12.0,6,-,-,-,-,3,-,-,-,-,3
+Garak 2(i)-dong,Songpa-gu,15.0,4,1,-,-,-,8,-,-,-,2,-
+Munjeong 1(il)-dong,Songpa-gu,11.0,5,1,-,-,-,5,-,-,-,-,-
+Munjeong 2(i)-dong,Songpa-gu,12.0,5,2,-,-,1,3,-,-,1,-,-
+Jangji-dong,Songpa-gu,15.0,4,-,-,-,1,8,-,-,-,1,1
+Jamsilbon-dong,Songpa-gu,25.0,12,-,-,-,-,10,-,-,1,2,-
+Jamsil 4(sa)-dong,Songpa-gu,3.0,-,-,-,-,-,2,-,-,-,-,1
+Jamsil 6(yuk)-dong,Songpa-gu,5.0,1,-,-,-,-,3,-,-,-,-,1
+Jamsil 7(chil)-dong,Songpa-gu,1.0,-,-,-,-,-,1,-,-,-,-,-
+Jamsil 2(i)-dong,Songpa-gu,7.0,2,2,-,-,-,2,-,-,-,1,-
+Jamsil 3(sam)-dong,Songpa-gu,6.0,2,1,-,-,-,3,-,-,-,-,-
+Gangil-dong,Gangdong-gu,11.0,3,3,-,-,-,3,-,-,-,1,1
+Sangil-dong,Gangdong-gu,8.0,3,1,-,-,-,4,-,-,-,-,-
+Myeongil 1(il)-dong,Gangdong-gu,16.0,7,2,-,-,-,6,-,-,-,-,1
+Myeongil 2(i)-dong,Gangdong-gu,4.0,1,-,-,-,-,2,-,-,-,-,1
+Godeok 1(il)-dong,Gangdong-gu,6.0,3,1,-,-,-,1,-,-,-,1,-
+Godeok 2(i)-dong,Gangdong-gu,3.0,1,-,-,-,-,1,-,-,-,1,-
+Amsa 2(i)-dong,Gangdong-gu,6.0,3,1,-,-,-,2,-,-,-,-,-
+Amsa 3(sam)-dong,Gangdong-gu,5.0,2,1,-,-,-,2,-,-,-,-,-
+Cheonho 1(il)-dong,Gangdong-gu,10.0,2,-,-,-,-,6,-,-,-,1,1
+Cheonho 3(sam)-dong,Gangdong-gu,20.0,10,1,-,-,-,9,-,-,-,-,-
+Seongnae 1(il)-dong,Gangdong-gu,12.0,4,-,-,-,-,8,-,-,-,-,-
+Seongnae 2(i)-dong,Gangdong-gu,15.0,9,-,-,-,-,6,-,-,-,-,-
+Seongnae 3(sam)-dong,Gangdong-gu,17.0,7,1,-,-,-,6,-,-,-,-,3
+Dunchon 2(i)-dong,Gangdong-gu,20.0,6,-,-,-,-,12,1,-,-,-,1
+Amsa 1(il)-dong,Gangdong-gu,16.0,4,2,-,-,-,9,-,-,-,1,-
+Cheonho 2(i)-dong,Gangdong-gu,29.0,13,-,-,-,-,13,-,-,-,2,1
+Gil-dong,Gangdong-gu,27.0,9,-,-,-,-,16,1,-,-,1,-

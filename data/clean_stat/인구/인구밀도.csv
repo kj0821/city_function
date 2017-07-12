@@ -1,0 +1,424 @@
+Dong,인구_인구밀도_Period,인구_인구밀도_Autonomous Gu,인구_인구밀도_Population,인구_인구밀도_Area,인구_인구밀도_Population density
+Sajik-dong,2013.0,Jongno-gu,10327.0,1.23,8396
+Samcheong-dong,2013.0,Jongno-gu,3367.0,1.49,2260
+Buam-dong,2013.0,Jongno-gu,11469.0,2.27,5052
+Pyeongchang-dong,2013.0,Jongno-gu,19779.0,8.87,2230
+Muak-dong,2013.0,Jongno-gu,8626.0,0.36,23961
+Gyonam-dong,2013.0,Jongno-gu,5450.0,0.35,15571
+Gahoe-dong,2013.0,Jongno-gu,5333.0,0.54,9876
+Jongno 1·2·3·4(ilisamsa)-ga-dong,2013.0,Jongno-gu,8797.0,2.35,3743
+Jongno 5·6(oryuk)-ga-dong,2013.0,Jongno-gu,6245.0,0.6,10408
+Ihwa-dong,2013.0,Jongno-gu,9435.0,0.78,12096
+Changsin 1(il)-dong,2013.0,Jongno-gu,7237.0,0.31,23345
+Changsin 2(i)-dong,2013.0,Jongno-gu,11707.0,0.26,45027
+Changsin 3(sam)-dong,2013.0,Jongno-gu,8310.0,0.23,36130
+Sungin 1(il)-dong,2013.0,Jongno-gu,7563.0,0.23,32883
+Sungin 2(i)-dong,2013.0,Jongno-gu,9944.0,0.35,28411
+Cheongunhyoja-dong,2013.0,Jongno-gu,14696.0,2.57,5718
+Hyehwa-dong,2013.0,Jongno-gu,19582.0,1.12,17484
+Sogong-dong,2013.0,Jung-gu,1766.0,0.95,1859
+Hoehyeon-dong,2013.0,Jung-gu,6563.0,0.84,7813
+Myeong-dong,2013.0,Jung-gu,4013.0,0.99,4054
+Pil-dong,2013.0,Jung-gu,4878.0,1.14,4279
+Jangchung-dong,2013.0,Jung-gu,6296.0,1.36,4629
+Gwanghui-dong ,2013.0,Jung-gu,6107.0,0.74,8253
+Euljiro-dong,2013.0,Jung-gu,2022.0,0.6,3370
+Sindang 5(o)-dong,2013.0,Jung-gu,10686.0,0.39,27400
+Hwanghak-dong,2013.0,Jung-gu,13068.0,0.33,39600
+Jungnim-dong,2013.0,Jung-gu,9944.0,0.48,20717
+Sindang-dong,2013.0,Jung-gu,8951.0,0.55,16275
+Dasan-dong,2013.0,Jung-gu,16545.0,0.51,32441
+Yaksu-dong,2013.0,Jung-gu,19267.0,0.48,40140
+Cheonggu-dong,2013.0,Jung-gu,15799.0,0.34,46468
+Donghwa-dong,2013.0,Jung-gu,12085.0,0.26,46481
+Huam-dong,2013.0,Yongsan-gu,20018.0,0.86,23277
+Yongsan 2-ga-dong,2013.0,Yongsan-gu,13546.0,1.96,6911
+Namyeong-dong,2013.0,Yongsan-gu,8442.0,1.19,7094
+Wonhyoro 2(i)-dong,2013.0,Yongsan-gu,15811.0,0.71,22269
+Hyochang-dong,2013.0,Yongsan-gu,11392.0,0.44,25891
+Yongmun-dong,2013.0,Yongsan-gu,13034.0,0.28,46550
+Ichon 1(il)-dong,2013.0,Yongsan-gu,28196.0,2.86,9859
+Ichon 2(i)-dong,2013.0,Yongsan-gu,10054.0,1.22,8241
+Itaewon 1(il)-dong,2013.0,Yongsan-gu,9644.0,0.57,16919
+Itaewon 2(i)-dong,2013.0,Yongsan-gu,11859.0,0.86,13790
+Seobinggo-dong,2013.0,Yongsan-gu,14221.0,2.8,5079
+Bogwang-dong,2013.0,Yongsan-gu,17961.0,0.71,25297
+Cheongpa-dong,2013.0,Yongsan-gu,23428.0,0.91,25745
+Wonhyoro 1(il)-dong,2013.0,Yongsan-gu,13004.0,0.59,22041
+Hangangno-dong,2013.0,Yongsan-gu,16277.0,2.9,5613
+Hannam-dong,2013.0,Yongsan-gu,25038.0,3.01,8318
+Wangsimni 2(i)-dong,2013.0,Seongdong-gu,17129.0,0.41,41778
+Majang-dong,2013.0,Seongdong-gu,25487.0,1.06,24044
+Sageun-dong,2013.0,Seongdong-gu,11745.0,1.11,10581
+Haengdang 1(il)-dong,2013.0,Seongdong-gu,17806.0,0.59,30180
+Haengdang 2(i)-dong,2013.0,Seongdong-gu,26767.0,0.42,63731
+Eungbong-dong,2013.0,Seongdong-gu,17370.0,0.57,30474
+Geumho 1(il)-ga-dong,2013.0,Seongdong-gu,14823.0,0.46,32224
+Geumho 4(sa)-ga-dong,2013.0,Seongdong-gu,15236.0,0.84,18138
+Seongsu 1(il)-ga1(il)-dong,2013.0,Seongdong-gu,18161.0,1.98,9172
+Seongsu 1(il)-ga2(i)-dong,2013.0,Seongdong-gu,18537.0,0.89,20828
+Seongsu 2(i)-ga1(il)-dong,2013.0,Seongdong-gu,20951.0,1.18,17755
+Seongsu 2(i)-ga 3(sam)-dong,2013.0,Seongdong-gu,12431.0,1.03,12069
+Songjeong-dong,2013.0,Seongdong-gu,12538.0,0.68,18438
+Yongdap-dong,2013.0,Seongdong-gu,17389.0,2.32,7495
+WangsimniDoseon-dong,2013.0,Seongdong-gu,12993.0,0.72,18046
+Geumho 2.3(i.sam)-ga-dong,2013.0,Seongdong-gu,23517.0,0.64,36745
+Oksu-dong,2013.0,Seongdong-gu,23688.0,1.95,12148
+Hwayang-dong,2013.0,Gwangjin-gu,24293.0,1.16,20942
+Gunja-dong,2013.0,Gwangjin-gu,22136.0,0.74,29914
+Junggok 1(il)-dong,2013.0,Gwangjin-gu,17021.0,0.62,27453
+Junggok 2(i)-dong,2013.0,Gwangjin-gu,23156.0,0.55,42102
+Junggok 3(sam)-dong,2013.0,Gwangjin-gu,18843.0,0.6,31405
+Junggok 4(sa)-dong,2013.0,Gwangjin-gu,31966.0,2.32,13778
+Neung-dong,2013.0,Gwangjin-gu,11331.0,1.1,10301
+Guui 1(il)-dong,2013.0,Gwangjin-gu,23226.0,0.56,41475
+Guui 2(i)-dong,2013.0,Gwangjin-gu,27787.0,1.39,19991
+Guui 3(sam)-dong,2013.0,Gwangjin-gu,29808.0,1.02,29224
+Gwangjang-dong,2013.0,Gwangjin-gu,37493.0,2.39,15687
+Jayang 1(il)-dong,2013.0,Gwangjin-gu,25374.0,0.57,44516
+Jayang 2(i)-dong,2013.0,Gwangjin-gu,28596.0,1.68,17021
+Jayang 3(sam)-dong,2013.0,Gwangjin-gu,31929.0,1.2,26608
+Jayang 4(sa)-dong,2013.0,Gwangjin-gu,28480.0,1.16,24552
+Hoegi-dong,2013.0,Dongdaemun-gu,12770.0,0.76,16803
+Hwigyeong 1(il)-dong,2013.0,Dongdaemun-gu,17352.0,0.63,27543
+Hwigyeong 2(i)-dong,2013.0,Dongdaemun-gu,26133.0,1.05,24889
+Cheongnyangni-dong,2013.0,Dongdaemun-gu,24821.0,1.2,20684
+Yongsin-dong,2013.0,Dongdaemun-gu,32856.0,1.61,20407
+Jegi-dong,2013.0,Dongdaemun-gu,28945.0,1.18,24530
+Jeonnong 1(il)-dong,2013.0,Dongdaemun-gu,33027.0,1.19,27754
+Jeonnong 2(i)-dong,2013.0,Dongdaemun-gu,21593.0,0.86,25108
+Dapsimni 1(il)-dong,2013.0,Dongdaemun-gu,20294.0,0.86,23598
+Dapsimni 2(i)-dong,2013.0,Dongdaemun-gu,31563.0,0.8,39454
+Jangan 1(il)-dong,2013.0,Dongdaemun-gu,37990.0,1.25,30392
+Jangan 2(i)-dong,2013.0,Dongdaemun-gu,32682.0,1.08,30261
+Imun 1(il)-dong,2013.0,Dongdaemun-gu,33194.0,1.04,31917
+Imun 2(i)-dong,2013.0,Dongdaemun-gu,23225.0,0.69,33659
+Myeonmok 2(i)-dong,2013.0,Jungnang-gu,28235.0,0.73,38678
+Myeonmok 4(sa)-dong,2013.0,Jungnang-gu,22236.0,1.1,20215
+Myeonmok 5(o)-dong,2013.0,Jungnang-gu,13911.0,0.64,21736
+Myeonmok 7(chil)-dong,2013.0,Jungnang-gu,25362.0,0.87,29152
+Sangbong 1(il)-dong,2013.0,Jungnang-gu,26165.0,0.85,30782
+Sangbong 2(i)-dong,2013.0,Jungnang-gu,18605.0,0.68,27360
+Junghwa 1(il)-dong,2013.0,Jungnang-gu,21566.0,0.68,31715
+Junghwa 2(i)-dong,2013.0,Jungnang-gu,30438.0,0.98,31059
+Muk 1(il)-dong,2013.0,Jungnang-gu,36370.0,1.2,30308
+Muk 2(i)-dong,2013.0,Jungnang-gu,20019.0,0.7,28599
+Mangu 3(sam)-dong,2013.0,Jungnang-gu,19207.0,0.99,19401
+Sinnae 1(il)-dong,2013.0,Jungnang-gu,33301.0,2.53,13162
+Sinnae 2(i)-dong,2013.0,Jungnang-gu,24878.0,0.99,25129
+Myeonmokbon-dong,2013.0,Jungnang-gu,37197.0,1.01,36829
+Myeonmok 3.8(sam.pal)-dong,2013.0,Jungnang-gu,29121.0,1.67,17438
+Mangubon-dong,2013.0,Jungnang-gu,34626.0,2.88,12023
+Donam 1(il)-dong,2013.0,Seongbuk-gu,16374.0,0.49,33416
+Donam 2(i)-dong,2013.0,Seongbuk-gu,23797.0,0.48,49577
+Anam-dong,2013.0,Seongbuk-gu,18255.0,1.33,13726
+Bomun-dong,2013.0,Seongbuk-gu,14285.0,0.56,25509
+Jeongneung 1(il)-dong,2013.0,Seongbuk-gu,20191.0,0.44,45889
+Jeongneung 2(i)-dong,2013.0,Seongbuk-gu,24182.0,1.17,20668
+Jeongneung 3(sam)-dong,2013.0,Seongbuk-gu,18371.0,3.71,4952
+Jeongneung 4(sa)-dong,2013.0,Seongbuk-gu,28050.0,3.13,8962
+Gireum 1(il)-dong,2013.0,Seongbuk-gu,37951.0,0.79,48039
+Gireum 2(i)-dong,2013.0,Seongbuk-gu,20815.0,0.58,35888
+Wolgok 1(il)-dong,2013.0,Seongbuk-gu,29199.0,0.81,36048
+Wolgok 2(i)-dong,2013.0,Seongbuk-gu,21611.0,1.36,15890
+Jangwi 1(il)-dong,2013.0,Seongbuk-gu,25420.0,0.7,36314
+Jangwi 2(i)-dong,2013.0,Seongbuk-gu,22150.0,0.67,33060
+Jangwi 3(sam)-dong,2013.0,Seongbuk-gu,18804.0,0.65,28929
+Seongbuk-dong,2013.0,Seongbuk-gu,19316.0,2.86,6754
+Samseon-dong,2013.0,Seongbuk-gu,28551.0,0.92,31034
+Dongseon-dong,2013.0,Seongbuk-gu,16963.0,0.73,23237
+Jongam-dong,2013.0,Seongbuk-gu,43664.0,1.46,29907
+Seokgwan-dong,2013.0,Seongbuk-gu,37398.0,1.73,21617
+Beon 1(il)-dong,2013.0,Gangbuk-gu,21013.0,0.55,38205
+Beon 2(i)-dong,2013.0,Gangbuk-gu,19457.0,1.25,15566
+Beon 3(sam)-dong,2013.0,Gangbuk-gu,21018.0,0.86,24440
+Suyu 1(il)-dong,2013.0,Gangbuk-gu,23300.0,1.07,21776
+Suyu 2(i)-dong,2013.0,Gangbuk-gu,22965.0,0.73,31459
+Suyu 3(sam)-dong,2013.0,Gangbuk-gu,24295.0,0.86,28250
+Samyang-dong,2013.0,Gangbuk-gu,31165.0,0.95,32805
+Mia-dong,2013.0,Gangbuk-gu,24116.0,0.73,33036
+Songjung-dong,2013.0,Gangbuk-gu,32963.0,1.22,27019
+Songcheon-dong,2013.0,Gangbuk-gu,31507.0,0.88,35803
+Samgaksan-dong,2013.0,Gangbuk-gu,35035.0,0.62,56508
+Ui-dong,2013.0,Gangbuk-gu,21436.0,10.95,1958
+Insu-dong,2013.0,Gangbuk-gu,33651.0,2.93,11485
+Ssangmun 1(il)-dong,2013.0,Dobong-gu,22731.0,1.24,18331
+Ssangmun 2(i)-dong,2013.0,Dobong-gu,21342.0,0.54,39522
+Ssangmun 3(sam)-dong,2013.0,Dobong-gu,18357.0,0.5,36714
+Ssangmun 4(sa)-dong,2013.0,Dobong-gu,21388.0,0.52,41131
+Banghak 1(il)-dong,2013.0,Dobong-gu,32130.0,0.69,46565
+Banghak 2(i)-dong,2013.0,Dobong-gu,23623.0,0.74,31923
+Banghak 3(sam)-dong,2013.0,Dobong-gu,31732.0,2.64,12020
+Chang 1(il)-dong,2013.0,Dobong-gu,28658.0,0.88,32566
+Chang 2(i)-dong,2013.0,Dobong-gu,31379.0,1.07,29326
+Chang 3(sam)-dong,2013.0,Dobong-gu,15950.0,0.67,23806
+Chang 4(sa)-dong,2013.0,Dobong-gu,30668.0,0.96,31946
+Chang 5(o)-dong,2013.0,Dobong-gu,27754.0,0.7,39649
+Dobong 1(il)-dong,2013.0,Dobong-gu,24102.0,8.72,2764
+Dobong 2(i)-dong,2013.0,Dobong-gu,30795.0,0.83,37102
+Wolgye 1(il)-dong,2013.0,Nowon-gu,23056.0,1.16,19876
+Wolgye 2(i)-dong,2013.0,Nowon-gu,30189.0,1.94,15561
+Wolgye 3(sam)-dong,2013.0,Nowon-gu,35551.0,1.17,30385
+Gongneung 2(i)-dong,2013.0,Nowon-gu,46738.0,6.82,6853
+Hagye 1(il)-dong,2013.0,Nowon-gu,30548.0,1.55,19708
+Hagye 2(i)-dong,2013.0,Nowon-gu,25529.0,0.51,50057
+Junggyebon-dong,2013.0,Nowon-gu,29658.0,1.97,15055
+Junggye 1(il)-dong,2013.0,Nowon-gu,30571.0,0.63,48525
+Junggye 4(sa)-dong,2013.0,Nowon-gu,22335.0,1.7,13138
+Sanggye 1(il)-dong,2013.0,Nowon-gu,44029.0,5.62,7834
+Sanggye 2(i)-dong,2013.0,Nowon-gu,22574.0,0.61,37007
+Sanggye 5(o)-dong,2013.0,Nowon-gu,24084.0,0.44,54736
+Sanggye 8(pal)-dong,2013.0,Nowon-gu,26646.0,0.67,39770
+Sanggye 9(gu)-dong,2013.0,Nowon-gu,24552.0,0.81,30311
+Sanggye 10(sip)-dong,2013.0,Nowon-gu,20345.0,0.8,25431
+Sanggye 3.4(sam.sa)-dong,2013.0,Nowon-gu,38405.0,5.62,6834
+Sanggye 6.7(yuk.chil)-dong,2013.0,Nowon-gu,36756.0,1.11,33114
+Junggye 2.3(i.sam)-dong,2013.0,Nowon-gu,41977.0,0.9,46641
+Gongneung 1(il)-dong,2013.0,Nowon-gu,40484.0,1.41,28712
+Nokbeon-dong,2013.0,Eunpyeong-gu,32991.0,1.79,18431
+Bulgwang 1(il)-dong,2013.0,Eunpyeong-gu,43220.0,3.13,13808
+Galhyeon 1(il)-dong,2013.0,Eunpyeong-gu,26315.0,0.97,27129
+Galhyeon 2(i)-dong,2013.0,Eunpyeong-gu,29351.0,0.96,30574
+Gusan-dong,2013.0,Eunpyeong-gu,33804.0,1.38,24496
+Daejo-dong,2013.0,Eunpyeong-gu,32449.0,0.85,38175
+Eungam 1(il)-dong,2013.0,Eunpyeong-gu,32745.0,1.2,27288
+Eungam 2(i)-dong,2013.0,Eunpyeong-gu,26769.0,0.78,34319
+Sinsa 1(il)-dong,2013.0,Eunpyeong-gu,28492.0,0.84,33919
+Sinsa 2(i)-dong,2013.0,Eunpyeong-gu,22678.0,1,22678
+Jeungsan-dong,2013.0,Eunpyeong-gu,20815.0,0.81,25698
+Susaek-dong,2013.0,Eunpyeong-gu,19277.0,1.29,14943
+Jingwan-dong,2013.0,Eunpyeong-gu,51666.0,11.52,4485
+Bulgwang 2(i)-dong,2013.0,Eunpyeong-gu,29948.0,1.38,21701
+Eungam 3(sam)-dong,2013.0,Eunpyeong-gu,27795.0,0.63,44119
+Yeokchon-dong,2013.0,Eunpyeong-gu,49796.0,1.16,42928
+Cheonyeon-dong,2013.0,Seodaemun-gu,20413.0,0.97,21044
+Hongje 1(il)-dong,2013.0,Seodaemun-gu,26991.0,1.23,21944
+Hongje 3(sam)-dong,2013.0,Seodaemun-gu,20054.0,0.81,24758
+Hongje 2(i)-dong,2013.0,Seodaemun-gu,15745.0,1.05,14995
+Hongeun 1(il)-dong,2013.0,Seodaemun-gu,26236.0,1.58,16605
+Hongeun 2(i)-dong,2013.0,Seodaemun-gu,30330.0,2.06,14723
+Namgajwa 1(il)-dong,2013.0,Seodaemun-gu,3893.0,0.48,8110
+Namgajwa 2(i)-dong,2013.0,Seodaemun-gu,30514.0,0.79,38625
+Bukgajwa 1(il)-dong,2013.0,Seodaemun-gu,19872.0,0.53,37494
+Bukgajwa 2(i)-dong,2013.0,Seodaemun-gu,34234.0,0.84,40755
+Chunghyeon-dong,2013.0,Seodaemun-gu,20555.0,1.12,18353
+Bugahyeon-dong,2013.0,Seodaemun-gu,10856.0,0.46,23600
+Sinchon-dong,2013.0,Seodaemun-gu,21634.0,2.63,8226
+Yeonhui-dong,2013.0,Seodaemun-gu,42740.0,3.05,14013
+Yonggang-dong,2013.0,Mapo-gu,19256.0,0.84,22924
+Daeheung-dong,2013.0,Mapo-gu,15791.0,0.88,17944
+Yeomni-dong,2013.0,Mapo-gu,16539.0,0.43,38463
+Sinsu-dong,2013.0,Mapo-gu,22161.0,0.78,28412
+Seogyo-dong,2013.0,Mapo-gu,30169.0,1.63,18509
+Hapjeong-dong,2013.0,Mapo-gu,20332.0,1.71,11890
+Mangwon 1(il)-dong,2013.0,Mapo-gu,24174.0,1.14,21205
+Mangwon 2(i)-dong,2013.0,Mapo-gu,21082.0,0.67,31466
+Yeonnam-dong,2013.0,Mapo-gu,20155.0,0.65,31008
+Seongsan 1(il)-dong,2013.0,Mapo-gu,21430.0,0.8,26788
+Seongsan 2(i)-dong,2013.0,Mapo-gu,40819.0,2.07,19719
+Sangam-dong,2013.0,Mapo-gu,33636.0,8.4,4004
+Dohwa-dong,2013.0,Mapo-gu,23773.0,0.62,38344
+Seogang-dong,2013.0,Mapo-gu,25244.0,1.45,17410
+gongdeok-dong,2013.0,Mapo-gu,37489.0,1.01,37118
+Ahyeon-dong,2013.0,Mapo-gu,19048.0,0.76,25063
+Mok 1(il)-dong,2013.0,Yangcheon-gu,33125.0,1.41,23493
+Mok 2(i)-dong,2013.0,Yangcheon-gu,31799.0,1.03,30873
+Mok 3(sam)-dong,2013.0,Yangcheon-gu,23173.0,0.53,43723
+Mok 4(sa)-dong,2013.0,Yangcheon-gu,28717.0,0.57,50381
+Sinwol 1(il)-dong,2013.0,Yangcheon-gu,24718.0,0.65,38028
+Sinwol 2(i)-dong,2013.0,Yangcheon-gu,21282.0,0.61,34889
+Sinwol 3(sam)-dong,2013.0,Yangcheon-gu,17853.0,0.87,20521
+Sinwol 4(sa)-dong,2013.0,Yangcheon-gu,19566.0,0.52,37627
+Sinwol 5(o)-dong,2013.0,Yangcheon-gu,16552.0,0.69,23988
+Sinwol 6(yuk)-dong,2013.0,Yangcheon-gu,12573.0,0.41,30666
+Sinwol 7(chil)-dong,2013.0,Yangcheon-gu,24782.0,1.19,20825
+Sinjeong 1(il)-dong,2013.0,Yangcheon-gu,19879.0,0.7,28399
+Sinjeong 2(i)-dong,2013.0,Yangcheon-gu,22507.0,0.52,43283
+Sinjeong 3(sam)-dong,2013.0,Yangcheon-gu,57667.0,2.72,21201
+Sinjeong 6(yuk)-dong,2013.0,Yangcheon-gu,26911.0,0.96,28032
+Sinjeong 7(chil)-dong,2013.0,Yangcheon-gu,32959.0,1.21,27239
+Mok 5(o)-dong,2013.0,Yangcheon-gu,45559.0,1.81,25171
+Sinjeong 4(sa)-dong,2013.0,Yangcheon-gu,37312.0,1.01,36943
+Yeomchang-dong,2013.0,Gangseo-gu,42600.0,1.74,24483
+Deungchon 1(il)-dong,2013.0,Gangseo-gu,23136.0,0.59,39214
+Deungchon 2(i)-dong,2013.0,Gangseo-gu,22182.0,0.92,24111
+Deungchon 3(sam)-dong,2013.0,Gangseo-gu,37093.0,0.79,46953
+Hwagokbon-dong,2013.0,Gangseo-gu,37233.0,1.11,33543
+Hwagok 2(i)-dong,2013.0,Gangseo-gu,20543.0,0.47,43709
+Hwagok 3(sam)-dong,2013.0,Gangseo-gu,24247.0,0.51,47543
+Hwagok 4(sa)-dong,2013.0,Gangseo-gu,23634.0,0.82,28822
+Hwagok 6(yuk)-dong,2013.0,Gangseo-gu,26032.0,1.12,23243
+Hwagok 8(pal)-dong,2013.0,Gangseo-gu,27811.0,0.53,52474
+Gayang 1(il)-dong,2013.0,Gangseo-gu,22252.0,4.7,4734
+Gayang 2(i)-dong,2013.0,Gangseo-gu,17581.0,1,17581
+Gayang 3(sam)-dong,2013.0,Gangseo-gu,18583.0,0.99,18771
+Balsan 1(il)-dong,2013.0,Gangseo-gu,33353.0,2.96,11268
+Gonghang-dong,2013.0,Gangseo-gu,22250.0,10.87,2047
+Banghwa 1(il)-dong,2013.0,Gangseo-gu,30828.0,1.04,29642
+Banghwa 2(i)-dong,2013.0,Gangseo-gu,25955.0,6.41,4049
+Banghwa 3(sam)-dong,2013.0,Gangseo-gu,27256.0,2.38,11452
+Hwagok 1(il)-dong,2013.0,Gangseo-gu,52933.0,1.12,47262
+Ujangsan-dong,2013.0,Gangseo-gu,39734.0,1.36,29216
+Sindorim-dong,2013.0,Guro-gu,38117.0,1.47,25930
+Guro 1(il)-dong,2013.0,Guro-gu,23013.0,1.02,22562
+Guro 3(sam)-dong,2013.0,Guro-gu,28955.0,1.02,28387
+Guro 4(sa)-dong,2013.0,Guro-gu,30165.0,0.46,65576
+Guro 5(o)-dong,2013.0,Guro-gu,35303.0,1.03,34275
+Gocheok 1(il)-dong,2013.0,Guro-gu,25602.0,1.16,22071
+Gocheok 2(i)-dong,2013.0,Guro-gu,31449.0,1.02,30832
+Gaebong 2(i)-dong,2013.0,Guro-gu,35171.0,0.8,43964
+Gaebong 3(sam)-dong,2013.0,Guro-gu,22483.0,0.81,27757
+Oryu 1(il)-dong,2013.0,Guro-gu,21572.0,0.59,36563
+Oryu 2(i)-dong,2013.0,Guro-gu,41488.0,4.6,9019
+Sugung-dong,2013.0,Guro-gu,26087.0,2.67,9770
+Garibong-dong,2013.0,Guro-gu,19507.0,0.4,48768
+Guro 2(i)-dong,2013.0,Guro-gu,39064.0,1.76,22195
+Gaebong 1(il)-dong,2013.0,Guro-gu,34191.0,1.31,26100
+Gasan-dong,2013.0,Geumcheon-gu,23519.0,2.5,9408
+Doksan 1(il)-dong,2013.0,Geumcheon-gu,34673.0,2.08,16670
+Doksan 2(i)-dong,2013.0,Geumcheon-gu,23899.0,0.61,39179
+Doksan 3(sam)-dong,2013.0,Geumcheon-gu,31712.0,0.92,34470
+Doksan 4(sa)-dong,2013.0,Geumcheon-gu,20096.0,0.59,34061
+Siheung 1(il)-dong,2013.0,Geumcheon-gu,38569.0,1.71,22555
+Siheung 2(i)-dong,2013.0,Geumcheon-gu,25032.0,1.26,19867
+Siheung 3(sam)-dong,2013.0,Geumcheon-gu,12985.0,1.07,12136
+Siheung 4(sa)-dong,2013.0,Geumcheon-gu,24169.0,0.87,27780
+Siheung 5(o)-dong,2013.0,Geumcheon-gu,23600.0,1.39,16978
+Yeouido-dong,2013.0,Yeongdeungpo-gu,34197.0,8.41,4066
+Dangsan 1(il)-dong,2013.0,Yeongdeungpo-gu,21155.0,0.75,28207
+Dangsan2(i)-dong,2013.0,Yeongdeungpo-gu,35490.0,1.55,22897
+Yangpyeong 1(il)-dong,2013.0,Yeongdeungpo-gu,17454.0,0.88,19834
+Yangpyeong 2(i)-dong,2013.0,Yeongdeungpo-gu,22256.0,3,7419
+Singil 1(il)-dong,2013.0,Yeongdeungpo-gu,23224.0,0.66,35188
+Singil 3(sam)-dong,2013.0,Yeongdeungpo-gu,17532.0,0.48,36525
+Singil 4(sa)-dong,2013.0,Yeongdeungpo-gu,13675.0,0.35,39071
+Singil 5(o)-dong,2013.0,Yeongdeungpo-gu,18542.0,0.47,39451
+Singil 6(yuk)-dong,2013.0,Yeongdeungpo-gu,24401.0,0.68,35884
+Singil 7(chil)-dong,2013.0,Yeongdeungpo-gu,15495.0,0.64,24211
+Daerim 1(il)-dong,2013.0,Yeongdeungpo-gu,19719.0,0.49,40243
+Daerim 2(i)-dong,2013.0,Yeongdeungpo-gu,25020.0,0.55,45491
+Daerim 3(sam)-dong,2013.0,Yeongdeungpo-gu,31750.0,1,31750
+Yeongdeungpobon-dong,2013.0,Yeongdeungpo-gu,27452.0,1.02,26914
+Yeongdeungpo-dong,2013.0,Yeongdeungpo-gu,20065.0,1.26,15925
+Dorim-dong,2013.0,Yeongdeungpo-gu,21394.0,0.89,24038
+Mullae-dong,2013.0,Yeongdeungpo-gu,32751.0,1.49,21981
+Noryangjin 2(i)-dong,2013.0,Dongjak-gu,16045.0,0.65,24685
+Sangdo 1(il)-dong,2013.0,Dongjak-gu,47416.0,1.51,31401
+Sangdo 2(i)-dong,2013.0,Dongjak-gu,26190.0,0.97,27000
+Sangdo 3(sam)-dong,2013.0,Dongjak-gu,25184.0,0.6,41973
+Sangdo 4(sa)-dong,2013.0,Dongjak-gu,29897.0,0.75,39863
+Sadang 1(il)-dong,2013.0,Dongjak-gu,24108.0,0.79,30516
+Sadang 3(sam)-dong,2013.0,Dongjak-gu,26513.0,0.92,28818
+Sadang 4(sa)-dong,2013.0,Dongjak-gu,15093.0,0.38,39718
+Sadang 5(o)-dong,2013.0,Dongjak-gu,15405.0,0.57,27026
+Daebang-dong,2013.0,Dongjak-gu,40651.0,1.55,26226
+Sindaebang 1(il)-dong,2013.0,Dongjak-gu,28636.0,0.62,46187
+Sindaebang 2(i)-dong,2013.0,Dongjak-gu,21520.0,1.03,20893
+Heukseok-dong,2013.0,Dongjak-gu,38806.0,1.68,23099
+Noryangjin 1(il)-dong,2013.0,Dongjak-gu,34380.0,1.58,21759
+Sadang 2(i)-dong,2013.0,Dongjak-gu,31641.0,2.75,11506
+Boramae-dong,2013.0,Gwanak-gu,27251.0,0.76,35857
+Cheongnim-dong,2013.0,Gwanak-gu,16868.0,0.3,56227
+Haengun-dong,2013.0,Gwanak-gu,30055.0,0.72,41743
+Nagseongdae-dong,2013.0,Gwanak-gu,19202.0,2.27,8459
+Jungang-dong,2013.0,Gwanak-gu,15233.0,0.39,39059
+Inheon-dong,2013.0,Gwanak-gu,28610.0,1.08,26491
+Namhyeon-dong,2013.0,Gwanak-gu,18359.0,3.27,5614
+Sewon-dong,2013.0,Gwanak-gu,24159.0,0.65,37168
+Sinwon-dong,2013.0,Gwanak-gu,20248.0,0.55,36815
+Serim-dong,2013.0,Gwanak-gu,24850.0,0.99,25101
+Sinsa-dong,2013.0,Gwanak-gu,26938.0,0.64,42091
+Sillim-dong,2013.0,Gwanak-gu,21697.0,0.54,40180
+Nanhyang-dong,2013.0,Gwanak-gu,17674.0,0.8,22093
+Jowon-dong,2013.0,Gwanak-gu,20212.0,0.67,30167
+Daehak-dong,2013.0,Gwanak-gu,23637.0,8.3,2848
+Euncheon-dong,2013.0,Gwanak-gu,36822.0,0.78,47208
+Seonghyeon-dong,2013.0,Gwanak-gu,34694.0,0.68,51021
+Cheongnyong-dong,2013.0,Gwanak-gu,34409.0,1.18,29160
+Nangok-dong,2013.0,Gwanak-gu,31026.0,0.96,32319
+Samseong-dong,2013.0,Gwanak-gu,29071.0,2.66,10929
+Miseong-dong,2013.0,Gwanak-gu,34113.0,1.38,24720
+Seocho 1(il)-dong,2013.0,Seocho-gu,21675.0,1.42,15264
+Seocho 2(i)-dong,2013.0,Seocho-gu,23868.0,1.24,19248
+Seocho 3(sam)-dong,2013.0,Seocho-gu,30659.0,2.93,10464
+Seocho 4(sa)-dong,2013.0,Seocho-gu,29773.0,0.88,33833
+Jamwon-dong,2013.0,Seocho-gu,34751.0,1.76,19745
+Banpobon-dong,2013.0,Seocho-gu,13487.0,1.01,13353
+Banpo 1(il)-dong,2013.0,Seocho-gu,34335.0,1,34335
+Banpo 2(i)-dong,2013.0,Seocho-gu,20133.0,1.35,14913
+Banpo 3(sam)-dong,2013.0,Seocho-gu,24431.0,1.28,19087
+Banpo 4(sa)-dong,2013.0,Seocho-gu,20884.0,1.43,14604
+Bangbaebon-dong,2013.0,Seocho-gu,22338.0,0.67,33340
+Bangbae 1(il)-dong,2013.0,Seocho-gu,17501.0,0.7,25001
+Bangbae 2(i)-dong,2013.0,Seocho-gu,27871.0,1.93,14441
+Bangbae 3(sam)-dong,2013.0,Seocho-gu,25586.0,2.4,10661
+Bangbae 4(sa)-dong,2013.0,Seocho-gu,26036.0,0.98,26567
+Yangjae 1(il)-dong,2013.0,Seocho-gu,44231.0,5.76,7679
+Yangjae 2(i)-dong,2013.0,Seocho-gu,22935.0,7.58,3026
+Naegok-dong,2013.0,Seocho-gu,6047.0,12.68,477
+Sinsa-dong,2013.0,Gangnam-gu,19753.0,1.89,10451
+Nonhyeon 1(il)-dong,2013.0,Gangnam-gu,26221.0,1.25,20977
+Nonhyeon 2(i)-dong,2013.0,Gangnam-gu,22526.0,1.47,15324
+Samseong 1(il)-dong,2013.0,Gangnam-gu,15993.0,1.94,8244
+Samseong 2(i)-dong,2013.0,Gangnam-gu,32310.0,1.24,26056
+Daechi 1(il)-dong,2013.0,Gangnam-gu,20580.0,0.79,26051
+Daechi 4(sa)-dong,2013.0,Gangnam-gu,22351.0,0.73,30618
+Yeoksam 1(il)-dong,2013.0,Gangnam-gu,36142.0,2.35,15380
+Yeoksam 2(i)-dong,2013.0,Gangnam-gu,35091.0,1.15,30514
+Dogok 1(il)-dong,2013.0,Gangnam-gu,22945.0,1.02,22495
+Dogok 2(i)-dong,2013.0,Gangnam-gu,35674.0,1.02,34975
+Gaepo 1(il)-dong,2013.0,Gangnam-gu,22869.0,1.27,18007
+Gaepo 4(sa)-dong,2013.0,Gangnam-gu,23562.0,1.49,15813
+Irwonbon-dong,2013.0,Gangnam-gu,23051.0,2.58,8934
+Irwon 1(il)-dong,2013.0,Gangnam-gu,18448.0,0.92,20052
+Irwon 2(i)-dong,2013.0,Gangnam-gu,18822.0,1.24,15179
+Suseo-dong,2013.0,Gangnam-gu,16486.0,1.43,11529
+Segok-dong,2013.0,Gangnam-gu,19137.0,6.36,3009
+Apgujeong -dong,2013.0,Gangnam-gu,29175.0,2.53,11532
+Cheongdam -dong,2013.0,Gangnam-gu,31198.0,2.33,13390
+Daechi 2(i)-dong,2013.0,Gangnam-gu,42509.0,2,21255
+Gaepo 2(i)-dong,2013.0,Gangnam-gu,34307.0,2.51,13668
+Pungnap 1(il)-dong,2013.0,Songpa-gu,19446.0,0.77,25255
+Pungnap 2(i)-dong,2013.0,Songpa-gu,28345.0,1.59,17827
+Geoyeo 1(il)-dong,2013.0,Songpa-gu,15869.0,0.67,23685
+Geoyeo 2(i)-dong,2013.0,Songpa-gu,27825.0,1.69,16464
+Macheon 1(il)-dong,2013.0,Songpa-gu,23762.0,0.58,40969
+Macheon 2(i)-dong,2013.0,Songpa-gu,22254.0,0.89,25004
+Bangi 1(il)-dong,2013.0,Songpa-gu,16929.0,0.5,33858
+Bangi 2(i)-dong,2013.0,Songpa-gu,26029.0,0.8,32536
+Oryun-dong,2013.0,Songpa-gu,20316.0,3.17,6409
+Ogeum-dong,2013.0,Songpa-gu,38276.0,1.65,23198
+Songpa 1(il)-dong,2013.0,Songpa-gu,27798.0,0.79,35187
+Songpa 2(i)-dong,2013.0,Songpa-gu,22852.0,0.53,43117
+Seokchon-dong,2013.0,Songpa-gu,35996.0,0.95,37891
+Samjeon-dong,2013.0,Songpa-gu,35213.0,0.95,37066
+Garakbon-dong,2013.0,Songpa-gu,29612.0,1.13,26205
+Garak 1(il)-dong,2013.0,Songpa-gu,1754.0,1.34,1309
+Garak 2(i)-dong,2013.0,Songpa-gu,35887.0,0.96,37382
+Munjeong 1(il)-dong,2013.0,Songpa-gu,22676.0,0.56,40493
+Munjeong 2(i)-dong,2013.0,Songpa-gu,18088.0,2.2,8222
+Jangji-dong,2013.0,Songpa-gu,40509.0,2.6,15580
+Jamsilbon-dong,2013.0,Songpa-gu,31085.0,0.94,33069
+Jamsil 4(sa)-dong,2013.0,Songpa-gu,31271.0,1.56,20046
+Jamsil 6(yuk)-dong,2013.0,Songpa-gu,17999.0,2.79,6451
+Jamsil 7(chil)-dong,2013.0,Songpa-gu,10646.0,0.6,17743
+Jamsil 2(i)-dong,2013.0,Songpa-gu,37239.0,2.18,17082
+Jamsil 3(sam)-dong,2013.0,Songpa-gu,37279.0,1.49,25019
+Gangil-dong,2013.0,Gangdong-gu,34508.0,2.8,12324
+Sangil-dong,2013.0,Gangdong-gu,27460.0,2.65,10362
+Myeongil 1(il)-dong,2013.0,Gangdong-gu,28415.0,0.61,46582
+Myeongil 2(i)-dong,2013.0,Gangdong-gu,18911.0,0.97,19496
+Godeok 1(il)-dong,2013.0,Gangdong-gu,17169.0,1.73,9924
+Godeok 2(i)-dong,2013.0,Gangdong-gu,17801.0,2.01,8856
+Amsa 2(i)-dong,2013.0,Gangdong-gu,16457.0,1.18,13947
+Amsa 3(sam)-dong,2013.0,Gangdong-gu,19213.0,2.51,7655
+Cheonho 1(il)-dong,2013.0,Gangdong-gu,31350.0,0.71,44155
+Cheonho 3(sam)-dong,2013.0,Gangdong-gu,26460.0,0.79,33494
+Seongnae 1(il)-dong,2013.0,Gangdong-gu,19812.0,0.58,34159
+Seongnae 2(i)-dong,2013.0,Gangdong-gu,26901.0,0.67,40151
+Seongnae 3(sam)-dong,2013.0,Gangdong-gu,25528.0,0.71,35955
+Dunchon 1(il)-dong,2013.0,Gangdong-gu,19900.0,0.92,21630
+Dunchon 2(i)-dong,2013.0,Gangdong-gu,29588.0,0.98,30192
+Amsa 1(il)-dong,2013.0,Gangdong-gu,38995.0,1.02,38230
+Cheonho 2(i)-dong,2013.0,Gangdong-gu,38032.0,1.57,24224
+Gil-dong,2013.0,Gangdong-gu,51469.0,2.17,23718
