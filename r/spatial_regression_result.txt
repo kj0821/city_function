@@ -1,0 +1,48 @@
+
+Call:lagsarlm(formula = out_traffic ~ employee + residential_population +     tweet, data = Seoul3, listw = lw)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-337464  -38887  -16141   34541  745856 
+
+Type: lag 
+Coefficients: (numerical Hessian approximate standard errors) 
+                          Estimate  Std. Error z value  Pr(>|z|)
+(Intercept)            40041.50014 14420.51320  2.7767  0.005491
+employee                   1.82713     0.36393  5.0206 5.152e-07
+residential_population    -0.63313     0.47741 -1.3262  0.184787
+tweet                     21.27606     1.35178 15.7393 < 2.2e-16
+
+Rho: -0.13659, LR test value: 7.459, p-value: 0.0063121
+Approximate (numerical Hessian) standard error: 0.049726
+    z-value: -2.7468, p-value: 0.0060177
+Wald statistic: 7.545, p-value: 0.0060177
+
+Log likelihood: -5436.587 for lag model
+ML residual variance (sigma squared): 8004800000, (sigma: 89470)
+Number of observations: 424 
+Number of parameters estimated: 6 
+AIC: 10885, (AIC for lm: 10891)
+
+
+Call:
+lm(formula = out_traffic ~ employee + residential_population + 
+    tweet, data = Seoul3)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-323501  -38698  -14150   34679  765436 
+
+Coefficients:
+                         Estimate Std. Error t value Pr(>|t|)    
+(Intercept)            19810.6204 12744.4893   1.554    0.121    
+employee                   1.6835     0.3655   4.606 5.44e-06 ***
+residential_population    -0.3517     0.4787  -0.735    0.463    
+tweet                     21.0162     1.3686  15.356  < 2e-16 ***
+---
+Signif. codes:  0 ¡®***¡¯ 0.001 ¡®**¡¯ 0.01 ¡®*¡¯ 0.05 ¡®.¡¯ 0.1 ¡® ¡¯ 1
+
+Residual standard error: 90830 on 420 degrees of freedom
+Multiple R-squared:  0.6181,	Adjusted R-squared:  0.6153 
+F-statistic: 226.6 on 3 and 420 DF,  p-value: < 2.2e-16
+
